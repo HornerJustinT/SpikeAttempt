@@ -1,6 +1,8 @@
-# Auth0 React Native Samples - Login
+# SpikeAttempt
 
-The complete guide to getting started with [react-native-auth0](https://github.com/auth0/react-native-auth0) is our [React Native QuickStart](https://auth0.com/docs/quickstart/native/react-native/00-login).
+This was taken from Auth0's sample code. However, I figured out how to use react native before working on the Auth0 sample. The authorization is an import along with an cliend id and access key. After using that I can access the users who have registered and logged into my app. An API can get that information from the website.
+
+# Auth0 React Native Samples - Login
 
 ## 1. Install
 
@@ -62,4 +64,3 @@ Run your app on an emulator, simulator, or your own connected device.
 The first run may take a while to fully launch. Keep an eye out for confirmation windows and watch the terminal for output and results.
 
 **Note:** If you get an error about "No bundle URL present" try clicking reload in the app or running `yarn run ios` again. 
-# SpikeAttempt
